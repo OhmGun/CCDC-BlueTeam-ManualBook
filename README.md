@@ -1,8 +1,5 @@
-# CCDC-BlueTeam-ManualBook
+# CCDC BlueTeam Manual Book
 ## HandBook Blueteam
-
-# CCDC Blueteam Manual
-
 ## Pre-Competition Methodology
 
 The events that you will encounter in CCDC will be correlated to real paths attackers will take, but the competition is a bit gamified in order to present a challenge to both the blue team and red team. Many of the things you learn to defend systems in this competition will directly translate to real-world applicable cybersecurity skills.
